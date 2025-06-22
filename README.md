@@ -12,7 +12,7 @@
 
 > You can click on the `TECHNIQUE'S NAME` to watch the Turkish tutorial I’ve prepared.
 
-<h4><a href="" target="_blank">Analyze with Profiler</a></h4>
+<h4><a href="https://youtu.be/kkKBWWx_2YU?si=an3EG3DJqRz7cgid" target="_blank">Analyze with Profiler</a></h4>
   The Profiler collects and displays performance data through detailed charts. This visualization allows you to focus your optimization efforts on the most resource-intensive areas, whether that’s code, audio, physics, animation, or rendering.
   <div align="center">
   <br>
