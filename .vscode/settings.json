@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Optimization_Techniques.sln"
+    "dotnet.defaultSolution": "Unity-Optimization-Techniques.sln"
 }
